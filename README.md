@@ -6,7 +6,7 @@ A set of packages and functions to get you started with Kitura and Bluemix super
 
 Want to write your server code in Swift and pull in some of the most useful libraries to get started? Simply add the following to your Package.swift file:
 
-```
+```swift
 import PackageDescription
 
 let package = Package(
