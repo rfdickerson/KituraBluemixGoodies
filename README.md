@@ -12,7 +12,7 @@ import PackageDescription
 let package = Package(
   name: "MyCoolApp",
 	dependencies: [
-		.Package(url: "https://github.com/rfdickerson/KituraBluemixGoodie",       majorVersion: 0, minor: 0),
+		.Package(url: "https://github.com/rfdickerson/KituraBluemixGoodies",      majorVersion: 0, minor: 0),
 	]
 )
 ```
